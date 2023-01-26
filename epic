@@ -50,6 +50,6 @@ function slide() {
         }
         console.log(doNext());
         addJQuery(slide);
-    }, 1200);
+    }, 3400);
 }
 addJQuery(slide);
