@@ -48,6 +48,6 @@ function slide() {
         }
         console.log(doNext());
         addJQuery(slide);
-    }, 100);
+    }, 1200);
 }
 addJQuery(slide);
